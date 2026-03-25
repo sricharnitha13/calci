@@ -33,6 +33,6 @@ app.post('/calculate', (req, res) => {
 });
 
 // Start server
-app.listen(3000, () => {
+app.listen(4000, () => {
     console.log('Server running at http://localhost:3000');
 });
